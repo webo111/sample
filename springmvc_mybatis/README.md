@@ -1,4 +1,4 @@
-SpringMVC+Spring+MyBatis
+SpringMVC+Spring+MyBatis+Shiro
 ========================
 
 Frameworks and Tools
